@@ -50,5 +50,5 @@ export function onStart() {
 
 export function getBuildURL() {
     // TODO: add an API_URL option
-    return "https://divolt.xyz";
+    return "https://revolt.angora.space";
 }
