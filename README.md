@@ -13,7 +13,7 @@ You can get the latest version in [releases.](https://github.com/fmhy/divolt-des
 If you want to build it yourself, you'll need [Node.JS](https://nodejs.org/en/) and [Yarn.](https://yarnpkg.com/getting-started/install) Then do the following:
 
 ```
-git clone https://github.com/fmhy/divolt-desktop
+git clone https://github.com/f1bona4i/divolt-desktop
 cd divolt-desktop
 yarn
 yarn build:bundle
